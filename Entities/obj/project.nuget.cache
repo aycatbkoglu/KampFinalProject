@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnqdXyQ2K+0KRHunfvZDL+n93jPJa+Jk2iRWga8FqdOJnJz551N5+p9FR/ukbN6sjlS+Rm2b5P1NJATZN8gjdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayca\\source\\repos\\KampFinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ayca\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

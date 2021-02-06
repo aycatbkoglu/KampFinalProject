@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFtvViyg/6ixKEdtrWAExCrXF5cScKLlxUxmg1Z+UI4x+dEQq7TSBMQTjodc6SGk4HHYTPkNEwW5EwWxHyzi+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayca\\source\\repos\\KampFinalProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ayca\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
