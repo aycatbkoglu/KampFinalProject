@@ -1,0 +1,9 @@
+C:\Users\Ayca\source\repos\KampFinalProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Ayca\source\repos\KampFinalProject\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Ayca\source\repos\KampFinalProject\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Ayca\source\repos\KampFinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
