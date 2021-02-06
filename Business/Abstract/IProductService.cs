@@ -13,5 +13,3 @@ namespace Business.Abstract
 
     }
 }
-
-//Deneme
